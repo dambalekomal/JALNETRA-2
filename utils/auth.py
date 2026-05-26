@@ -28,8 +28,8 @@ class OTPManager:
         """Send OTP to user email"""
         try:
             # Email configuration
-            sender_email = os.getenv("SENDER_EMAIL", "your-email@gmail.com")
-            sender_password = os.getenv("SENDER_PASSWORD", "your-app-password")
+            sender_email = os.getenv("SENDER_EMAIL", "dambalekomal5@gmail.com")
+            sender_password = os.getenv("SENDER_PASSWORD", "fjwguqhoqkdkfvwd")
             
             # Create message
             message = MIMEMultipart("alternative")
