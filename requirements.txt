@@ -9,8 +9,5 @@ bcrypt
 PyJWT
 nltk
 textblob
-matplotlib
-seaborn
 requests
-python-dateutil
-pytz
+
