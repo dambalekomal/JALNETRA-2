@@ -5,9 +5,5 @@ numpy
 scikit-learn
 python-dotenv
 email-validator
-bcrypt
-PyJWT
-nltk
-textblob
 requests
 
